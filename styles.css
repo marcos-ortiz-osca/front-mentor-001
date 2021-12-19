@@ -39,7 +39,7 @@ body {
     border-radius: 1em;
 }
 .card-img{
-    background-image: url(/images/image-header-mobile.jpg);
+    background-image: url(./images/image-header-mobile.jpg);
     height: 230px;
     background-position: center;
     background-size: cover;
